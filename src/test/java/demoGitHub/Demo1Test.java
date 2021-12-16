@@ -7,5 +7,6 @@ public class Demo1Test {
 public void demoProgram() {
 	System.out.println("FirstLine");
 	System.out.println("Second Line");
+	System.out.println("Third Line WorkSpace 2");
 }
 }
