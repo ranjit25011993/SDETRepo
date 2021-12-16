@@ -6,6 +6,6 @@ public class Demo1Test {
 @Test
 public void demoProgram() {
 	System.out.println("FirstLine");
-	
+	System.out.println("Second Line");
 }
 }
